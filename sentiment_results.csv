@@ -1,0 +1,11 @@
+Post,Polarity,Subjectivity,Sentiment
+I love this new phone! The camera quality is amazing.,0.4234848484848485,0.6515151515151515,Positive
+I'm feeling really sad about what happened yesterday.,-0.5,1.0,Negative
+"It's an average product, not too good, not too bad.",-0.04999999999999997,0.5555555555555555,Neutral
+Absolutely fantastic experience with the service!,0.5,0.9,Positive
+Worst customer support ever. Totally disappointed.,-0.875,0.875,Negative
+"Meh, it's okay I guess. Could be better.",0.5,0.5,Positive
+Thrilled to announce our product launch! Stay tuned.,0.75,0.7,Positive
+Why is this app so slow and buggy?!,-0.37500000000000006,0.39999999999999997,Negative
+Happy to be a part of this amazing community.,0.7000000000000001,0.95,Positive
+I don't know what to say. Mixed feelings.,0.0,0.25,Neutral
